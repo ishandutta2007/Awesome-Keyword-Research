@@ -84,6 +84,8 @@ Discover self-hosted, open-source alternatives and CLI tools for custom SEO anal
 | **[YoutubeTags Scraper](https://github.com/topics/keyword-research)** | [![GitHub_Stars](https://img.shields.io/github/stars/topics/keyword-research?style=social&color=white)](https://github.com/topics/keyword-research) | Open Source | YouTube video tag and keyword extractor operating without requiring official YouTube Data API keys. |
 | **[SEO Research Toolkit](https://github.com/topics/keyword-research)** | [![GitHub_Stars](https://img.shields.io/github/stars/topics/keyword-research?style=social&color=white)](https://github.com/topics/keyword-research) | Open Source | Jupyter notebook framework interfacing with Google Ads API, Google Suggestions, and Gemini 1.5 Flash for keyword discovery. |
 
+| **[FlashData](https://github.com/rocosen/flashdata-mcp)** | [![GitHub_Stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=social&color=white)](https://github.com/rocosen/flashdata-mcp/stargazers) | MIT | CLI and MCP client for Google Search, YouTube search, extended search and autocomplete in keyword/competitor research; data queries require an API key and paid FlashData Credits, with no permanent free data tier claimed. |
+
 ---
 
 ## 💡 Additional Open-Source Libraries & Scrapers 📚
